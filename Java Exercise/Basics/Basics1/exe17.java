@@ -15,6 +15,9 @@ public class exe17{
             bin1 = bin1 / 10;
             bin2 = bin2 / 10;
         }
+        if (remainder != 0) {
+            sum[i++] = remainder;
+           }
         --i;
         System.out.println("Sum of two binary number: ");
         while (i>=0){
