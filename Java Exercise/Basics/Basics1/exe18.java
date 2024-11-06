@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.utils.Scanner;
 
 public class exe18 {
     public static void main(String[] args) {
