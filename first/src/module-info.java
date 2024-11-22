@@ -4,5 +4,5 @@
 /**
  * 
  */
-module Loan {
+module first {
 }
